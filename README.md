@@ -16,3 +16,10 @@ start /wait java -jar YOURSERVER.jar
 echo (%time%) Server closed/crashed... restarting!
 goto StartServer
 ```
+## ❓ Getting Started
+
+1. Head over to the [releases page](https://github.com/tedddeptrai/run.bat/releases/)
+2. Download the release (ex. [v1.0](https://github.com/tedddeptrai/run.bat/releases/tag/v1.0))
+3. Open the file up and change `YOURSERVER` to the spigot filename.
+4. Make sure you place this `run.bat` near your spigot server file.
+5. Run `run.bat` to start the script.
