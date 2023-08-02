@@ -5,6 +5,7 @@
    This script was made for minecraft server
 </div>
 
+---
 ## ⚙ Preview Code 
 ```
 @echo off
@@ -16,6 +17,8 @@ start /wait java -jar YOURSERVER.jar
 echo (%time%) Server closed/crashed... restarting!
 goto StartServer
 ```
+
+---
 ## ❓ Getting Started
 
 1. Head over to the [releases page](https://github.com/tedddeptrai/run.bat/releases/)
@@ -23,3 +26,12 @@ goto StartServer
 3. Open the file up and change `YOURSERVER` to the spigot filename.
 4. Make sure you place this `run.bat` near your spigot server file.
 5. Run `run.bat` to start the script.
+   
+---
+## ⚠ Note
+Do not turn off the script, or the script will not open the server automatically.
+
+---
+## 🎣 Preferences
+- RGA Minecraft: [Profile](https://www.spigotmc.org/members/rgaminecraft.70017/)
+- Thread: [Start.bat code](https://www.spigotmc.org/threads/start-bat-code.91155/)
